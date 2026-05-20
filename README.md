@@ -1,50 +1,88 @@
-### Hi there 👋
+# Olá, eu sou o Sérgio Romão Montes 👋
 
-# README
+Sou **Senior Product Designer**, com foco em produtos digitais complexos, Design Systems, jornadas financeiras e experiências orientadas por dados.
 
-## Olá, eu sou o Sérgio (ou nego)!
+Atuo conectando **UX, estratégia de produto, negócio e tecnologia**, ajudando times a transformar problemas reais em soluções digitais mais claras, escaláveis e eficientes.
 
-Seja bem-vindo ao meu repositório do GitHub. Aqui você encontrará alguns projetos que desenvolvi utilizando JavaScript, CSS e HTML. Além disso, vou compartilhar um pouco sobre meus interesses pessoais e hobbies.
+---
 
 ## Sobre mim
 
-- Nome: Sérgio (apelido: nego)
-- Linguagens de programação:
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- Hobbies: jiu-jitsu, surf, futebol e esportes em geral
-- Games favoritos: FIFA, Call of Duty
+- Product Designer com experiência em fintech, varejo, crédito, benefícios e produtos digitais
+- Forte atuação em **Design Systems**, componentização, tokens e governança visual
+- Experiência com discovery, prototipação, testes com usuários e handoff para engenharia
+- Uso dados para apoiar decisões de produto, reduzir fricção e melhorar conversão
+- Tenho interesse em IA aplicada ao design, automação, prototipação e design-to-code
 
-## Projetos
+---
 
-Aqui estão alguns dos projetos que compartilhei neste repositório:
+## Principais áreas de atuação
 
-1. [Nome do Projeto 1](link_do_projeto): Breve descrição do projeto.
-2. [Nome do Projeto 2](link_do_projeto): Breve descrição do projeto.
-3. [Nome do Projeto 3](link_do_projeto): Breve descrição do projeto.
+### Product Design
+Criação e evolução de jornadas digitais com foco em clareza, usabilidade, conversão e impacto no negócio.
 
-Sinta-se à vontade para explorar cada um deles e verificar o código-fonte.
+### Design Systems
+Estruturação de componentes, tokens, padrões visuais, documentação e consistência entre produtos.
 
-## Como contribuir
+### UX Strategy
+Análise de problemas, comportamento do usuário, métricas, hipóteses e priorização de melhorias com impacto real.
 
-Se você quiser contribuir com algum projeto ou sugerir melhorias, fique à vontade para fazer um fork deste repositório e enviar suas alterações através de pull requests. Ficarei feliz em revisar suas contribuições!
+### AI + Design
+Uso de ferramentas como ChatGPT, Claude, Cursor, Figma MCP e automações para acelerar discovery, prototipação e documentação.
 
-## Contato
+---
 
-Se você tiver alguma dúvida ou quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:
+## Ferramentas e tecnologias
 
-- E-mail: sergio@sixdd.com
+### Design
+Figma, FigJam, Design Systems, Prototipação, Wireframes, Fluxos, Testes de usabilidade
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+### Produto e dados
+GA4, Firebase, Looker Studio, Hotjar, Métricas de conversão, Funis, Jornada do usuário
 
+### Front-end e prototipação
+HTML, CSS, JavaScript, React, Tailwind CSS, GitHub, Vercel
 
+### IA e automação
+ChatGPT, Claude, Cursor, Lovable, Figma MCP, Design-to-code
 
-Fique à vontade para me contatar caso queira trocar ideias sobre programação, compartilhar dicas de jogos ou discutir sobre nossos hobbies em comum.
+---
 
-Obrigado por visitar meu repositório! Divirta-se explorando os projetos.
+## Projetos em destaque
+
+### Design System para produtos financeiros
+Estruturação de componentes, tokens e padrões visuais para melhorar consistência, velocidade de entrega e governança entre squads.
+
+### Jornadas financeiras e crédito
+Desenho de experiências para conta digital, cartão, crédito, cashback, ofertas e onboarding, com foco em redução de fricção e clareza para o usuário.
+
+### Dashboards e análise de comportamento
+Criação de visões em dados para acompanhar funis, eventos, engajamento e oportunidades de melhoria em produto.
+
+---
+
+## Como penso design
+
+Acredito que design não é apenas interface.  
+Design é uma ferramenta para **tomar melhores decisões de produto**.
+
+Meu trabalho começa entendendo o problema, o comportamento do usuário e o impacto esperado no negócio. A interface vem depois: como consequência de uma estratégia bem definida.
+
+---
+
+## Atualmente estudando
+
+- IA aplicada ao design e produto
+- Design-to-code
+- Product strategy
+- Métricas de UX
+- Design Systems escaláveis
+
+---
+
+## Vamos conversar?
+
+- LinkedIn: [linkedin.com/in/sergiomontes1977](https://www.linkedin.com/in/sergiomontes1977)
+- Portfólio: [sergioromaomontes.com.br](https://sergioromaomontes.com.br)
+- Behance: [behance.net/sergioromaomontes](https://www.behance.net/sergioromaomontes)
+- GitHub: [github.com/sergiomontes77](https://github.com/sergiomontes77)
