@@ -1,4 +1,4 @@
-# Olá, eu sou o Sérgio Romão Montes 👋
+# Olá, eu sou o Sérgio👋
 
 Sou **Senior Product Designer**, com foco em produtos digitais complexos, Design Systems, jornadas financeiras e experiências orientadas por dados.
 
